@@ -13,6 +13,8 @@ I am a versatile programmer with experience ranging from modern frontend framewo
 - 🌱 I’m currently deepening my knowledge in **TypeScript**.
 - 💼 I’m open to working with **Web Apps** or **Enterprise Systems**.
 - 📫 How to reach me: **adrianlopianowski@gmail.com**
+- 🔭 Check out my website: [developianowski.pl](https://developianowski.pl/)
+
 
 ---
 
@@ -24,7 +26,6 @@ I believe in choosing the best tool for the job. Here is my technical arsenal:
 
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
   
@@ -32,7 +33,7 @@ I believe in choosing the best tool for the job. Here is my technical arsenal:
 
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+
 
   <br/>
 
@@ -45,13 +46,7 @@ I believe in choosing the best tool for the job. Here is my technical arsenal:
 </div>
 
 ---
-
-### 📊 GitHub Stats
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianlopianowski&layout=compact&theme=radical&hide_border=true" height="150" alt="Top Languages" />
-</div>
 
----
-
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/lopianowski/)
+ [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/lopianowski/)
+ </div>
