@@ -1,19 +1,10 @@
 # Hi there, I'm Adrian Lopianowski! 👋
 
-🎓 I am a Computer Science Student currently finishing my engineering degree.
-🚀 **I am looking for my first job as a Junior Developer.**
+I am a Computer Science Student currently finishing my engineering degree.
 
-I am a versatile programmer with experience ranging from modern frontend frameworks to enterprise solutions like SAP/ABAP.
 
----
 
-### ⚡ Quick Facts
-
-- 🔭 I’m currently working on my **engineering thesis**: a cross-platform HR management system.
-- 🌱 I’m currently deepening my knowledge in **TypeScript**.
-- 💼 I’m open to working with **Web Apps** or **Enterprise Systems**.
-- 📫 How to reach me: **adrianlopianowski@gmail.com**
-- 🔭 Check out my website: [developianowski.pl](https://developianowski.pl/)
+ Check out my website: [developianowski.pl](https://developianowski.pl/)
 
 
 ---
@@ -27,7 +18,7 @@ I believe in choosing the best tool for the job. Here is my technical arsenal:
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+
   
   <br/>
 
